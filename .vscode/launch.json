@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "type": "lua",
+      "request": "launch",
+      "name": "Run stack.lua",
+      "program": "${workspaceFolder}/stack.lua",
+      "stopOnEntry": false
+    }
+  ],
+  "version": "0.2.0",
+}
